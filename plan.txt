@@ -1,0 +1,35 @@
+need to write contracts for the G&K software consultancy.
+
+consultancy is cofounded by Gibson Martin and Kyle Dougan
+Base of operations in Houston, Texas, LLC, 
+Kyle is in hawaii, so theres some nexus rules there.
+
+we need some standard work contracts for A amount of money and T time.
+we can change those amounts and time for each client, so lets just do a 3 month contract as our template.
+
+ownership of all work done will be granted to the client as is 
+idk if we need to sign off on that, or if payment is afterwards.
+
+kyle has stated he prefers to be paid up front.
+
+idk what sort of guarantees we should offer to the clients
+i have no experience with this so. whats standard etc. 
+obviously we need to protect ourselves since say some clients are bad actors,
+
+some clients will be code fluent and are allowed access to the code but wont own it until contract is signed off
+some clients will not be code fluent and will not have access until sign off (idk how to protect client. 
+if they paid up front obviously they dont own it as is right? or if they paid up front maybe they do own it as is?)
+idk maybe its just simpler to have a sign over part
+
+g&k is allowed to keep a copy of the code and reuse parts of it.
+(i think in most cases this wont cause problems. maybe an optional part about only parts not unique to the business?
+but we should still keep copy.)
+or maybe this is just another paper we can have them sign also, that we get to keep all of it, or a 
+different paper where we do a blacklist, specifying parts that wont be owned by gnk then both parties can agree
+
+what papers should we make?
+what other unique clauses will we need? i really dont know much about contracts.
+
+obviously this will end up in a pdf with sign spots and logos, but for now can just be text. sort of markdown lite.
+
+obviously a lawyer will vet this stuff after we write it
